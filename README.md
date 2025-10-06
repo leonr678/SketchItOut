@@ -9,3 +9,9 @@ This is a mobile application for iPhone. It is a sketching game that provides th
     ```bash
    git clone https://github.com/leonr678/SketchItOut.git
 3. Open project in XCode
+
+# Images
+
+<img src="SketchItOut-Mug.png" alt="Example Image" width="200">
+
+<img src="SketchItOut-Saved.png" alt="Example Image" width="200">
